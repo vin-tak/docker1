@@ -1,6 +1,6 @@
 <?php
-	print "hello  aaku"
-	print "i love you so much"
+	
+	print "hello aaku i love you so much"
 	
 
 ?>
