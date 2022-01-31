@@ -1,4 +1,4 @@
 <?php
-	printtttt "hello this is pipeline 1 again 1"
+	printtt "hello this is pipeline 1 again 1"
 
 ?>
